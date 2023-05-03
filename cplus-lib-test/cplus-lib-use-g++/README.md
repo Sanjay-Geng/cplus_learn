@@ -20,7 +20,7 @@ g++ main.cpp -I include -L lib -lmylib -o run_static
 export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:/path/to/cplus-lib-use-base/libso
 ```
 
-### on linux
+#### on linux
 
 ```shell
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/path/to/cplus-lib-use-base/libso
