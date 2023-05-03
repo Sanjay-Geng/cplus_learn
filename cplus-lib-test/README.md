@@ -1,6 +1,7 @@
 ## cplus-lib-build
 
 static directory:  build static library
+
 dynamic directory:  build dynamic library
 
 ## cplus-lib-use-g++
